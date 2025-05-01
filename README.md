@@ -1,28 +1,30 @@
-# 📜 Certificates
+# 📜 სერტიფიკატები
 
-This repository contains professional certificates earned by **Giorgi Kakhetelidze**, showcasing completed coursework and technical abilities.
+
+
+## 📘 React-ის სერტიფიკატი
+
+🗓️ *თარიღი: 18.09.2021 - 20.03.2022*  
+📄 [იხილეთ სერტიფიკატი](./React%20Certificate.pdf)
+
+წარმატებით დავასრულე React-ის სტაჟირება, რომელიც მოიცავდა კომპონენტებს, JSX-ს, მდგომარეობის (state) მართვას და თანამედროვე Front-End პრაქტიკებს.
 ---
 
-## 📘 React Certificate
+## 🗃️ SQL Intermediate სერტიფიკატი
 
-🗓️ *Date: July 16, 2024*  
-📄 [View Certificate](./React%20Certificate.pdf)
+🗓️ *თარიღი: 18.09.2021 - 01.10.2021*  
+📄 [იხილეთ სერტიფიკატი](./SQL.pdf)  
 
-Successfully completed a React development course, showcasing knowledge of React components, JSX, state management, and modern front-end best practices.
----
-
-## 🗃️ SQL Intermediate Certificate
-
-🗓️ *Date: 18.09.2021 - 01.10.2021*  
-📄 [View Certificate](./SQL.pdf)  
-
-## C# Intermediate Certificate
-🗓️ *Date: 05.10.2021 - 20.10.2021*  
-📄 [View Certificate](./C%23%20certificate.pdf)
+კურსის განმავლობაში მივიღე თეორიული და პრაქტიკული ცოდნა SQL-ში და ზოგადად მონაცემთა ბაზებთან მუშაობაში.
 
 
+## C# Intermediate სერტიფიკატი 
+🗓️ *თარიღი: 05.10.2021 - 20.10.2021*  
+📄 [იხილეთ სერტიფიკატი](./C%23%20certificate.pdf)
 
-Established a good foundation in C#, having hands-on experience with object-oriented principles, LINQ, collections, and implementing real-world applications with the.NET framework.
+კურსის განმავლობაში მივიღე თეორიული და მათ შორის პრაქტიკული გამოცდილება ობიექტზე ორიენტირებულ პროგრამირებაში, LINQ-ში, კოლექციებში და რეალურ აპლიკაციებზე მუშაობაში .NET გამოყენებით.
+
+
 ---
 
 
